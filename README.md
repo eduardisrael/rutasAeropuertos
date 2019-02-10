@@ -1,8 +1,9 @@
 # rutasAeropuertos
 Programa que permita graficar rutas optimas entre aeropuertos. 
 
-Datos de los primeros 50 aeropuertos del archivo " airports.dat" y graficar las rutas existentes entre ellos.
+Datos de los primeros 50 aeropuertos del archivo "airports.dat" y graficar las rutas existentes entre ellos.
 
+airports.dat
 ![Scheme](./data.png) 
 
 
