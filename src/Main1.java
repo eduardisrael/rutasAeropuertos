@@ -14,7 +14,7 @@ import org.espol.edu.ec.grafos.lista.Vertice;
 
 /**
  *
- * @author ancalder
+ * 
  */
 public class Main1 {
     
